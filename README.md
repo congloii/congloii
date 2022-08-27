@@ -29,6 +29,6 @@ Yeah, I set the most repos to private.
 
 ## My stats:
 
-[![yuu-chan-baka's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuyukoUxU&theme=dracula&show_icons=true)](https://github.com/congloii/github-readme-stats)
+[![yuu-chan-baka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chesese&theme=dracula&show_icons=true)](https://github.com/congloii/github-readme-stats)
 
 ![Language most](https://github-readme-stats.vercel.app/api/top-langs/?username=congloii&show_icons=true&theme=dracula)
